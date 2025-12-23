@@ -37,6 +37,14 @@ Learn how to implement retry logic with exponential backoff using FastAPI and Te
 
 [Read more →](./retry/README.md)
 
+### [contextlib.suppress - Clean Exception Handling](./contextlib-suppress)
+
+Stop writing try-except blocks just to ignore exceptions.
+
+Learn how to use `contextlib.suppress` to write cleaner, more readable code when you need to intentionally ignore specific exceptions.
+
+[Read more →](./contextlib-suppress/README.md)
+
 ## License
 
 MIT License - See [LICENSE](./LICENSE) for details.

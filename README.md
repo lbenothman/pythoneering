@@ -53,6 +53,14 @@ Learn how to use the walrus operator to avoid duplicate function calls, write cl
 
 [Read more →](./walrus-operator/README.md)
 
+### [functools.partial - Pre-fill Function Arguments](./functools-partial)
+
+Stop repeating the same arguments. Create specialized versions of functions.
+
+Learn how to use `functools.partial` to reduce code repetition, create cleaner callbacks, and build reusable function factories.
+
+[Read more →](./functools-partial/README.md)
+
 ## License
 
 MIT License - See [LICENSE](./LICENSE) for details.

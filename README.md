@@ -45,6 +45,14 @@ Learn how to use `contextlib.suppress` to write cleaner, more readable code when
 
 [Read more →](./contextlib-suppress/README.md)
 
+### [Walrus Operator (:=) - Assignment Expressions](./walrus-operator)
+
+Stop repeating yourself. Assign and use in one expression.
+
+Learn how to use the walrus operator to avoid duplicate function calls, write cleaner conditions, and make list comprehensions more efficient.
+
+[Read more →](./walrus-operator/README.md)
+
 ## License
 
 MIT License - See [LICENSE](./LICENSE) for details.

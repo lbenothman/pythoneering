@@ -34,6 +34,12 @@ This repository provides hands-on code examples demonstrating Python concepts an
 | **cProfile** | Find performance bottlenecks by measuring execution time. Compare implementations and verify optimization improvements. | [Read more →](./cprofile-profiling/README.md) |
 | **tracemalloc** | Track memory usage and find memory leaks. Compare memory efficiency of different implementations. | [Read more →](./tracemalloc-profiling/README.md) |
 
+### Web Development & APIs
+
+| Tip | Description | Link |
+|-----|-------------|------|
+| **FastAPI Exception Handlers** | Centralize error handling without repetitive try/catch blocks. Consistent error responses across all endpoints. | [Read more →](./fastapi-exception-handlers/README.md) |
+
 ### Resilience & Design Patterns
 
 | Tip | Description | Link |

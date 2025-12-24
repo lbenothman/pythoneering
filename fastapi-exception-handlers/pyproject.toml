@@ -1,0 +1,14 @@
+[project]
+name = "fastapi-exception-handlers"
+version = "0.1.0"
+description = "Centralized error handling with FastAPI exception handlers"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.127.0",
+    "uvicorn>=0.34.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

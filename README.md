@@ -61,6 +61,14 @@ Learn how to use `functools.partial` to reduce code repetition, create cleaner c
 
 [Read more →](./functools-partial/README.md)
 
+### [cProfile - Performance Profiling](./cprofile-profiling)
+
+Stop guessing where your code is slow. Measure and find real bottlenecks.
+
+Learn how to use `cProfile` to identify performance bottlenecks, compare implementations, and verify optimization improvements with data.
+
+[Read more →](./cprofile-profiling/README.md)
+
 ## License
 
 MIT License - See [LICENSE](./LICENSE) for details.

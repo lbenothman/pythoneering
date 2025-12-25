@@ -39,6 +39,11 @@ This repository provides hands-on code examples demonstrating Python concepts an
 | Tip | Description | Link |
 |-----|-------------|------|
 | **FastAPI Exception Handlers** | Centralize error handling without repetitive try/catch blocks. Consistent error responses across all endpoints. | [Read more →](./fastapi-exception-handlers/README.md) |
+| **FastAPI with ORJson** | Speed up JSON serialization by 2-3x using orjson instead of standard library json. | [Read more →](./fastapi-orjson/README.md) |
+| **FastAPI Streaming Response** | Stream data to clients without loading everything into memory. Perfect for large files and real-time updates. | [Read more →](./fastapi-streaming-response/README.md) |
+| **FastAPI GZip Middleware** | Automatically compress large responses to reduce bandwidth usage by 60-80%. | [Read more →](./fastapi-compress-responses/README.md) |
+| **FastAPI Request Context** | Store and access request-scoped data throughout async request lifecycle using contextvars. | [Read more →](./fastapi-request-context/README.md) |
+| **FastAPI Rate Limiting** | Protect your API from abuse by limiting request rates per IP or user. | [Read more →](./fastapi-rate-limit/README.md) |
 
 ### Resilience & Design Patterns
 

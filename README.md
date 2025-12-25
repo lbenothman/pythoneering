@@ -26,6 +26,7 @@ This repository provides hands-on code examples demonstrating Python concepts an
 | **Walrus Operator (:=)** | Assign and use variables in one expression. Avoid duplicate function calls and write cleaner conditions. | [Read more →](./walrus-operator/README.md) |
 | **contextlib.suppress** | Clean exception handling without try-except blocks. Intentionally ignore specific exceptions with readable code. | [Read more →](./contextlib-suppress/README.md) |
 | **functools.partial** | Pre-fill function arguments to create specialized versions. Reduce code repetition and build reusable function factories. | [Read more →](./functools-partial/README.md) |
+| **Descriptors** | Reusable attribute validation without repetitive property definitions. Write validation logic once, use everywhere. | [Read more →](./descriptors/README.md) |
 
 ### Performance & Profiling
 

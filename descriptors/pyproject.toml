@@ -1,0 +1,6 @@
+[project]
+name = "descriptors"
+version = "0.1.0"
+description = "Python Descriptors for reusable attribute validation"
+requires-python = ">=3.9"
+dependencies = []

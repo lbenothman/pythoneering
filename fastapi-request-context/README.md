@@ -106,8 +106,6 @@ curl -H "X-Request-ID: custom-123" -H "X-User-ID: user-456" http://localhost:800
 # Test async context preservation
 curl -X POST -H "X-User-ID: alice" http://localhost:8000/process
 
-# Nested async calls
-curl -H "X-User-ID: bob" http://localhost:8000/nested
 ```
 
 ## When to Use

@@ -1,6 +1,6 @@
 # functools.partial
 
-Pre-fill function arguments to create specialized versions. Python standard library.
+Pre-fill function arguments to create specialized versions.
 
 ## The Problem
 
